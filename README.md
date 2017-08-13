@@ -7,6 +7,10 @@
 ![Alt text](/photos/2.jpg)
 
 ![Alt text](/photos/3.jpg)
+You will need:
+*6 M2 x 5 standoffs
+*6 M2 screws
+ You can buy from Aliexpress
 
 ![Alt text](/photos/4.jpg)
 

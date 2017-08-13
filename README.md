@@ -21,5 +21,3 @@ You will need:
 ![Alt text](/photos/10.jpg)  
 
 ![Alt text](/photos/11.jpg)  
-
-![Alt text](/photos/12.jpg)  

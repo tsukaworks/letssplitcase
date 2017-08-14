@@ -1,5 +1,8 @@
 # 3D printed Let's Split case
 
+Also uploaded STL's here  
+[https://www.thingiverse.com/thing:2482218](https://www.thingiverse.com/thing:2482218 "thingiverse")
+
 ![Alt text](/photos/3.jpg)  
 You will need:  
 *6 M2 x 5 standoffs  

@@ -1,6 +1,6 @@
 # 3D printed Let's Split case
 
-Also uploaded STL's here  
+Uploaded STL's here  
 [https://www.thingiverse.com/thing:2482218](https://www.thingiverse.com/thing:2482218 "thingiverse")
 
 ![Let's Split](/photos/3.jpg)  
